@@ -3,6 +3,8 @@ import SignUp from './Authentication/Sign up/SignUp'
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import SignIn from './Authentication/Sing in/SignIn'
 import Home from './user_panel/Home/home'
+// import Home from './user_panel/Home/home'/
+Home
 function App() {
 
 
