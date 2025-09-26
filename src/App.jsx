@@ -2,7 +2,7 @@ import './App.css'
 import SignUp from './Authentication/Sign up/SignUp'
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import SignIn from './Authentication/Sing in/SignIn'
-import Home from './user_panel/Home/Home'
+import Home from './user_panel/Home/home'
 function App() {
 
 
